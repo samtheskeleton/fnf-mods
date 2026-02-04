@@ -95512,7 +95512,7 @@ $jscomp.polyfill("String.prototype.startsWith", function (ua) {
       _0x23d546.set_y(0);
       _0x472743.setFormat("assets/fonts/vcr.ttf", 16, -1, "left", Ta.OUTLINE, -16777216);
       this.add(_0x472743);
-      _0x472743 = new R(110, g.height - 34, 0, "gn-math", 12);
+      _0x472743 = new R(110, g.height - 34, 0, "GN-MATH/UGS", 12);
       _0x23d546 = _0x472743.scrollFactor;
       _0x23d546.set_x(0);
       _0x23d546.set_y(0);
